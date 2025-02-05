@@ -1,21 +1,28 @@
-Tic-Tac-Toe 🎮
-A simple yet fun Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend and test your strategy!
+# Tic-Tac-Toe
 
-Features ✨
-Classic 3x3 grid gameplay
-Interactive and responsive design
-Smooth player turn transitions
+A simple and fun Tic-Tac-Toe game built with HTML, CSS, and JavaScript!
 
-How to Play 🕹️
+## Features
+- Classic 3x3 grid gameplay
+- Play against a friend
+- Interactive and responsive design
 
-Clone the repository:
+## How to Play
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Rohit-Kr132/tic_tac_toe.git
+   ```
+2. Open `index.html` in your browser.
+3. Enjoy the game!
 
-git clone https://github.com/Rohit-Kr132/tic_tac_toe.git
+Alternatively, visit:
+```bash
+rohit-kr132.github.io/tic_tac_toe/
+```
+for a live website
 
-Open index.html in your browser.
+## Contact
+For feedback or suggestions:
+- GitHub: [Rohit-Kr132](https://github.com/Rohit-Kr132)
 
-Alternatively:
-Visit https://rohit-kr132.github.io/tic_tac_toe/
-for a live working webapp
-
-Enjoy the game!
+Have fun playing! 🎉
