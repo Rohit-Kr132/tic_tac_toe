@@ -7,8 +7,11 @@ Interactive and responsive design
 Smooth player turn transitions
 
 How to Play 🕹️
+
 Clone the repository:
+
 git clone https://github.com/Rohit-Kr132/tic_tac_toe.git
+
 Open index.html in your browser.
 
 Alternatively:
